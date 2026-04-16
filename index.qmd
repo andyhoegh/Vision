@@ -1,7 +1,7 @@
 ---
-title: "Statistical Methods for Modeling Disease Spillover and Spillback"
+title: "Department Head Vision"
 author: "Andy Hoegh"
-date: "June 17, 2025"
+date: "April 15, 2026"
 format: 
   revealjs:
     scrollable: true
@@ -15,165 +15,201 @@ library(knitr)
 ```
 
 
-# DISEASE ECOLOGY PRIMER
+## Hoegh: Department Head Vision
 
-## What is Disease Ecology?
-
-- the ecological study of host-pathogen interactions within the context of their environment and evolution.
-
-- a field of study that investigates the relationship between pathogens (like bacteria, viruses, and parasites) and their hosts, as well as the influence of the environment and evolution on disease transmission and spread.
-
-- the mechanisms, patterns, and effects of host-pathogen interactions, particularly those of infectious diseases.
-
-- how pathogens interact with their host environment and how they are able to colonize new hosts, sometimes becoming more or potentially less pathogenic. 
-
-## Spillover and Spillback
-
-```{r}
+```{r, out.width = "100px"}
 #| fig-align: center
-#| fig-cap: "Image from Plowright et al. 'Pathways to zoonotic spillover.' Nature Reviews Microbiology 2017."
-knitr::include_graphics('cheese.png')
+#| fig-cap: "Link to presentation slides: andyhoegh.github.io/Vision"
+knitr::include_graphics("QR.png")
 ```
 
-# HENDRA VIRUS IN AUSTRALIA
+## About Me
 
-## Flying Foxes
+::: {.fragment fragment-index=1}
+- 10th year at MSU
+- Promoted to Associate Professor in 2022
+:::
+
+::: {.fragment fragment-index=2}
+- __Scholarship:__
+    - Applied Statistician
+    - 40+ peer-reviewed papers
+    - 13 (8 + 5) grants
+:::
+
+::: {.fragment fragment-index=3}
+- __Teaching:__
+    - 15 different class sections
+    - 3 PhD Students, 14 MS Stat Students, 18 MSDS Students
+:::
+
+
+:::{.fragment fragment-index=4}
+- __Service__
+    - Associate Department Head
+    - Department & College RPT Committee
+    - Awards Committee
+    - Graduate Program Committee
+    - Executive Committee / Stat Group Liasion
+    - Search Committees (Chair) 
+    - Data Science Steering Committee
+    - Course Supervisor (STAT 411 & STAT 332)
+    - College Research Advisory Committee
+:::
+
+## Presentation Overview
+
+1. What does a department head do?
+2. What are qualities of a good department head?
+3. Why I am I standing up here today?
+4. What are my plans?
+5. What do I need from you?
+
+# WHAT DOES A DEPARTMENT HEAD DO?
+
+## What does a department head do?
+
+```{r, out.width = "100px"}
+#| fig-align: center
+#| fig-cap: "Image by Cliff Harris via https://www.positech.co.uk/cliffsblog/2021/12/13/what-exactly-is-it-that-you-do-here/"
+knitr::include_graphics("officespace.png")
+```
+
+## What does a department head do?
+
+1. Set department culture and be a face of the department
+
+::: {.fragment fragment-index=1}
+2. Deploy teaching expertise (class scheduling)
+:::
+
+::: {.fragment fragment-index=2}
+3. Conduct annual evaluations
+:::
+
+::: {.fragment fragment-index=3}
+4. Guide RPT process and mentor candidates
+:::
+
+::: {.fragment fragment-index=4}
+5. Advocate for the department: hiring & resources
+:::
+
+::: {.fragment fragment-index=5}
+6. Oversee departmental affairs: orientation events, scholarships, graduation, etc.
+:::
+
+::: {.fragment fragment-index=6}
+7. Manage budgets 
+:::
+
+::: {.fragment fragment-index=7}
+8. Maintain scholarship and teaching (50% administrative appointment)
+:::
+
+# WHAT ARE QUALITIES OF A GOOD DEPARTMENT HEAD?
+
+## Clear the Path
 
 ```{r, out.width = "100%"}
 #| fig-align: 'center'
-knitr::include_graphics("bats.png")
+#| fig-cap: "Image from NBC Montana via https://nbcmontana.com/news/local/bozeman-snow-plows-working-around-the-clock"
+
+knitr::include_graphics("snowplow.jpg")
 ```
 
-## Flying Foxes
+## Enable Good Work and Good Ideas
 
-```{r, out.width = "100%"}
-#| fig-align: 'center'
-#| fig-cap: "Image from Vivian Jones, Bat Conservation International"
-
-knitr::include_graphics("ghff.jpg")
-```
-## Hendra Virus System
-
-```{r, out.width = "100%"}
-#| fig-align: 'center'
-knitr::include_graphics("spillover.png")
-```
-
-## Hendra Virus System: What we know
-
-```{r, out.width = "100%"}
-#| fig-align: 'center'
-knitr::include_graphics("nature.png")
-```
-
-## NSF: Rules of Life
-
-```{r, out.width = "100%"}
-#| fig-align: 'center'
-knitr::include_graphics("Rol.png")
-```
-
-## Research Question
-
-- Can we identify and model behavioral differences (across the spectrum of food availability) that may impact the risk of HeV spillover?
-
-```{r, out.width = "100%"}
-#| fig-align: 'center'
-knitr::include_graphics("robin.png")
-```
-
-## {background-image="roost.png"}
-
-
-## {background-video="Flyout.m4v" background-video-loop="true" background-video-muted="true"}
-
-
-## {background-video="radar_vid.MOV" background-video-loop="true" background-video-muted="true"}
-
-## {background-image="observation.png"}
-
-## {background-image="Mar5_pres.png" background-size="contain"}
-
-## {background-image="animation.gif" background-size="contain"}
-
-## {background-image="Mar13_pres.png" background-size="contain"}
-
-## {background-image="animation_mar13.gif" background-size="contain"}
-
-
-# CoV SURVEILLANCE IN NORTH AMERICA
-
-## NA BAT - Bat One Health
-
-```{r}
+```{r, out.width = "100px"}
 #| fig-align: center
-#| fig-cap: "This information is preliminary and is subject to revision. It is being provided to meet the need for timely best science. The information is provided on the condition that neither the U.S. Geological Survey nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information."
-knitr::include_graphics('NAB.png')
+#| fig-cap: "Original Image by Dave Coverly"
+knitr::include_graphics("micromanage.jpeg")
 ```
 
-## Research Questions
+## Be Fair
 
-1.  What factors impact CoV prevalence in Mexican Free Tailed bats?
-
-2.  Is there evidence of viral spillback in Mexican Free Tailed bats?
-
-```{r}
+```{r, out.width = "100px"}
 #| fig-align: center
-#| fig-width: 100
-knitr::include_graphics('TABR.jpg')
+#| fig-cap: "Image by Jen via  https://afiremanswife.com/2017/08/02/half-a-cake-for-a-half-birthday"
+knitr::include_graphics("cake.jpg")
 ```
 
-## Study Area
+## Be a Great Listener and Communicator
 
-```{r}
+```{r, out.width = "100px"}
 #| fig-align: center
-knitr::include_graphics('Map.png')
+#| fig-cap: "Image by Farhana Huq via  https://www.surflifecoaching.com/blog/3-steps-to-becoming-a-better-listener"
+knitr::include_graphics("listener.jpg")
 ```
 
-## Statistical Challenges
 
-1. Preferential Sampling
-2. Pooled Testing
+# WHY AM I STANDING UP HERE TODAY?
 
-```{r, out.width = "100%"}
+## Why me?
+
+```{r, out.width = "100px"}
 #| fig-align: center
-#| fig-width: 100
-
-knitr::include_graphics('Patrick.png')
+#| fig-cap: "Image by Scott Berkun via  https://scottberkun.com/2010/finger-on-nose-how-to-make-fast-decisions/"
+knitr::include_graphics("fingernose.png")
 ```
 
-##  What factors impact CoV prevalence in Mexican Free Tailed bats? {.nostretch}
 
-```{r}
+# WHAT ARE MY PLANS?
+
+## No ambitious 100 day agenda
+
+::: {.fragment fragment-index=1}
+- Maintain culture and department trajectory
+:::
+
+::: {.fragment fragment-index=2}
+- Gain better understanding of processes within subgroups
+:::
+
+::: {.fragment fragment-index=3}
+- Be available for conversation
+:::
+
+::: {.fragment fragment-index=4}
+- Advocate for additional faculty positions
+:::
+
+::: {.fragment fragment-index=5}
+- Build leadership team
+:::
+
+
+# WHAT DO I NEED FROM YOU?
+
+
+## Who is next?
+
+```{r, out.width = "100px"}
 #| fig-align: center
-#| fig-width: 100
-knitr::include_graphics('Figure3.png')
+#| fig-cap: "Image by James Montgomery Flagg via  https://blogs.loc.gov/teachers/2014/07/uncle-sam-american-symbol-american-icon/"
+knitr::include_graphics("UncleSam.jpg")
 ```
 
-##  What factors impact CoV prevalence in Mexican Free Tailed bats? {.nostretch}
+## Shared Governance
 
-```{r}
-#| fig-align: center
-#| fig-width: 100
-knitr::include_graphics('Figure4.png')
-```
+::: {.fragment fragment-index=1}
+- Keep up the good work
+:::
 
+::: {.fragment fragment-index=2}
+- All good ideas are welcome
+:::
 
-## Is there evidence of viral spillback in Mexican Free Tailed bats?
+::: {.fragment fragment-index=3}
+- More involved Executive Committee / Faculty Affairs Committee
+:::
 
-```{r}
-#| fig-align: center
-#| fig-width: 100
-knitr::include_graphics('TABR.jpg')
-```
+::: {.fragment fragment-index=4}
+- Associate Department Head
+:::
 
+## 
 
-
-
-## Acknowledgements
-
-- This material is based upon work supported by the U.S. Geological Survey
-under Grant/Cooperative Agreement number G21AC10748-00.
-
-- This material is based upon work supported by the National
-Science Foundation under Grant Numbers EF-2133763 and EF-2231624.
+::: {.r-fit-text}
+Questions?
+:::
